@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/melisas-profile-banner.png"&animation=fadeIn alt="Soft pink stars and a crescent moon in a dark sky" width="100%" />
+<img src="melisas-profile-banner.png"&animation=fadeIn alt="Soft pink stars and a crescent moon in a dark sky" width="100%" />
   
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=d77a9b&center=true&vCenter=true&width=540&lines=%E2%9C%A6+welcome+to+my+little+corner+%E2%9C%A6;learning%2C+building%2C+and+following+curiosity" alt="Typing introduction" />
@@ -27,4 +27,4 @@
   </tr>
 </table>
 
-<img src="assets/floral-banner.png" alt="White and blush flowers on a dark background" width="100%" />
+<img src="floral-banner.png" alt="White and blush flowers on a dark background" width="100%" />
