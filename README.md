@@ -21,10 +21,22 @@
     <td width="38%" valign="top">
       <h2>˚｡⋆୨ interests ୧</h2>
       <p>
+        code　·　AI　·　games　·　video editing　·　photography　·　music
+      <p>
         <b>currently learning</b><br />
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" alt="Python, Java, C, and C++" width="120" />
     </td>
   </tr>
 </table>
+<div align="center">
+      <p>
+        ╭⋆ ★ ────♬ [Moonlight - Chase Atlantic] ♬ ──── ★ ⋆╮
+      </p>
+  <p>
+                       0:54 ─⚬───────4:12
+    </p>
+  <p>
+        ╰⋆ ★ ───────── ⇄ ◁  ❚❚  ▷ ↻ ───────── ★ ⋆╯
+      </p>
 
 <img src="floral-banner.png" alt="White and blush flowers on a dark background" width="100%" />
