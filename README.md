@@ -30,13 +30,13 @@
 </table>
 <div align="center">
       <p>
-        ╭⋆ ★ ────♬ [Moonlight - Chase Atlantic] ♬ ──── ★ ⋆╮
+        ╭⋆ ★ ────♬ [ Moonlight - Chase Atlantic ] ♬ ──── ★ ⋆╮
       </p>
   <p>
                        0:54 ─⚬───────4:12
     </p>
   <p>
-        ╰⋆ ★ ───────── ⇄ ◁  ❚❚  ▷ ↻ ───────── ★ ⋆╯
+      ╰⋆ ★ ───────── ⇄ ◁  ❚❚  ▷ ↻ ───────── ★ ⋆╯
       </p>
 
 <img src="floral-banner.png" alt="White and blush flowers on a dark background" width="100%" />
